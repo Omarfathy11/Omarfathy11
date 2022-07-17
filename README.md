@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...x ware
 - - 🌱 I’m currently learning ...backend
 - - 👯 I’m looking to collaborate on ...backend projects
+end
