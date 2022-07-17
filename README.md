@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on ...x ware
+- - 🌱 I’m currently learning ...backend
+- - 👯 I’m looking to collaborate on ...backend projects
