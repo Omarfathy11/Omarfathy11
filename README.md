@@ -1,5 +1,5 @@
 
 Hi there 👋
-🔭 I'm currently working on backend web development
-🌱 I'm currently learning Python and Django.
-👯 I'm looking to collaborate on backend projects.
+🔭 I'm currently working on mobile applications
+🌱 I'm currently learning dart and flutter.
+👯 I'm looking to collaborate on flutter projects.
